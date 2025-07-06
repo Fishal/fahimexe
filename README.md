@@ -1,35 +1,29 @@
-<h1 align="center">Hi 👋, I'm FAHIM AHAMED</h1>
-<h3 align="center">@fahimexe</h3>
+<h1 align="center">Hi 👋, I'm <code>TF FAHIM</code></h1>
+<h3 align="center">aka @fahimexe</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=TF+FAHIM+-+HACKING+THE+SYSTEM...;WELCOME+TO+MY+TERMINAL" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="90%" />
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 💻 I love experimenting with code like a hacker 😎
-- 🌱 Currently learning Python, HTML & Java
-- 🇧🇩 Proud to be Bangladeshi
-- 🧠 Beginner but passionate
-
----
-
-### 💻 Skills:
+### 💻 Skills & Stack:
 - Python 🐍
-- HTML5 & CSS3 🌐
 - Java ☕
+- HTML5 / CSS3 🌐
 
 ---
 
 ### 📊 GitHub Stats:
-![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimexe&show_icons=true&theme=tokyonight)
+![TF FAHIM GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimexe&show_icons=true&theme=radical)
 
 ---
 
-### 🔗 Contact Me:
+### 📞 Contact:
 - Telegram: [@fahimexe](https://t.me/fahimexe)
 
----
-
-> 💡 “Keep coding like a hacker — Learn every bug, every byte.”
+> ⚠️ "TF FAHIM is inside the system..."
