@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm <code>TF FAHIM</code></h1>
-<h3 align="center">aka @fahimexe</h3>
+<h1 align="center">WELCOME TO <code>TF FAHIM</code>'s TERMINAL</h1>
+<h3 align="center">Professional Hacker Profile 😎</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=TF+FAHIM+-+HACKING+THE+SYSTEM...;WELCOME+TO+MY+TERMINAL" alt="Typing SVG" />
+  <img src="https://i.gifer.com/7plU.gif" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="90%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=TF+FAHIM+-+HACKING+LIVE...;TERMINAL+ACTIVATED;WELCOME+TO+THE+ZONE" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 Skills & Stack:
-- Python 🐍
-- Java ☕
-- HTML5 / CSS3 🌐
+### 👨‍💻 About Me:
+- 💀 Cyber enthusiast & beginner ethical hacker
+- 🧠 Learning Python | Java | HTML/CSS
+- 🌐 Working in dark mode 😈
+- 📬 Telegram: [@fahimexe](https://t.me/fahimexe)
+
+---
+
+### 💻 Tech Stack:
+- 🐍 Python
+- 🌐 HTML / CSS / JavaScript
+- ☕ Java
+- 🧰 Git, GitHub
 
 ---
 
@@ -23,7 +32,4 @@
 
 ---
 
-### 📞 Contact:
-- Telegram: [@fahimexe](https://t.me/fahimexe)
-
-> ⚠️ "TF FAHIM is inside the system..."
+> 💬 "You can't trace a ghost in the system. Welcome to TF FAHIM's Zone."
